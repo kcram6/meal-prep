@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <AppNavigation />
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
+import AppNavigation from '../components/AppNavigation';
 
 export default {
   components: {
-    HelloWorld,
+    AppNavigation,
   },
 };
 </script>
